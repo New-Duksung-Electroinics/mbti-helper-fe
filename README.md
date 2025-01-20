@@ -1,1 +1,1 @@
-# mbti-helper-fe
+# mindbridge
